@@ -1,0 +1,19 @@
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.sos {
+    border: 5px solid #25fc09;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+}

@@ -1,0 +1,30 @@
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.sos {
+    border: 5px solid #25fc09;
+}
+
+.utopia {
+    border: 5px solid #ddd318;
+}
+
+.mbdtf {
+    border: 5px solid #ee0b0b;;
+}
+
+main{
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap-reverse;   
+    height: 75vh;
+    width: 190vh;
+}
